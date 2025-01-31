@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on George Savvoudis</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on George Savvoudis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 13:46:13 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/aboutme/</link>
+      <pubDate>Fri, 31 Jan 2025 13:46:13 +0100</pubDate>
+      <guid>http://localhost:1313/about/aboutme/</guid>
+      <description>&lt;p&gt;Hello! Welcome to my website. My name is George Savvoudis, I am a PhD candidate in Mathematics currently working at UP FAMNIT under the supervision of Michel Lavrauw. I completed my undergraduate and masters degrees at the University of Adelaide. My masters thesis &lt;a href=&#34;https://hdl.handle.net/2440/141705&#34;&gt;&amp;ldquo;Quadrics &amp;amp; Quadrals, Combinatorics &amp;amp; Characterisations: a Survey of Subspaces&amp;rdquo;&lt;/a&gt;, supervised by Susan Barwick, collected known characterisations of quadrics as well as proving several new characterisations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
